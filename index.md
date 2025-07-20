@@ -8,4 +8,4 @@ Welcome to the privacy policies for ulteridon's apps and games.
 
 ---
 
-*Last updated: January 19, 2025*
+*Last updated: July 20, 2025*

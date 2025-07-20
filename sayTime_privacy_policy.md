@@ -1,6 +1,6 @@
 # Privacy Policy for SayTime
 
-**Effective Date:** January 19, 2025
+**Effective Date:** July 20, 2025
 
 ## Introduction
 
@@ -111,9 +111,9 @@ We may update this Privacy Policy occasionally. When we do:
 
 If you have questions about this Privacy Policy or our data practices, please contact us at:
 
-**Email**: support@saytime.app  
+**Email**: asquare938@gmail.com  
 **Subject**: Privacy Policy Inquiry
 
 ---
 
-**Last Updated**: January 19, 2025
+**Last Updated**: July 20, 2025
