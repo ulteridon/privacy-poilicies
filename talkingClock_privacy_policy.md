@@ -1,21 +1,20 @@
-# Privacy Policy for SayTime
+# Privacy Policy for Talking Clock
 
 **Effective Date:** July 20, 2025
 
 ## Introduction
 
-This Privacy Policy describes how SayTime ("we," "our," or "us") collects, uses, and protects your information when you use our mobile application.
+This Privacy Policy describes how Talking Clock ("we," "our," or "us") collects, uses, and protects your information when you use our mobile application.
 
 ## Information We Collect
 
 ### Information Stored Locally on Your Device
 
-SayTime stores the following information locally on your device only:
+Talking Clock stores the following information locally on your device only:
 
 - **App Settings**: Your preferences for time announcement frequency, voice selection, volume levels, silent hours configuration, clock face style, and theme preferences
 - **Onboarding Status**: Whether you have completed the initial app setup
 - **Purchase Information**: Records of in-app purchases for premium features (processed through Apple App Store or Google Play Store)
-
 ### Information We Do NOT Collect
 
 - We do not collect any personal information
@@ -44,7 +43,7 @@ The information stored locally on your device is used solely to:
 
 ## Text-to-Speech Functionality
 
-SayTime uses your device's built-in text-to-speech engine to announce the time. This functionality:
+Talking Clock uses your device's built-in text-to-speech engine to announce the time. This functionality:
 
 - Processes time information locally on your device
 - Does not record or store spoken announcements
@@ -53,7 +52,7 @@ SayTime uses your device's built-in text-to-speech engine to announce the time. 
 
 ## In-App Purchases
 
-SayTime offers premium features through in-app purchases:
+Talking Clock offers premium features through in-app purchases:
 
 - Purchase transactions are processed by Apple App Store or Google Play Store
 - We do not store payment information
@@ -62,7 +61,7 @@ SayTime offers premium features through in-app purchases:
 
 ## Home Screen Widgets
 
-SayTime's home screen widget feature:
+Talking Clock's home screen widget feature:
 
 - Displays current time and app status on your home screen
 - Updates information locally without external data transmission
@@ -70,11 +69,11 @@ SayTime's home screen widget feature:
 
 ## Children's Privacy
 
-SayTime does not collect any personal information from users of any age. The app is designed to be privacy-safe for all users, including children under 13.
+Talking Clock does not collect any personal information from users of any age. The app is designed to be privacy-safe for all users, including children under 13.
 
 ## Third-Party Services
 
-SayTime integrates with the following platform services:
+Talking Clock integrates with the following platform services:
 
 - **Apple App Store / Google Play Store**: For app distribution and in-app purchases
 - **Device Text-to-Speech Engine**: For time announcements (processed locally)
