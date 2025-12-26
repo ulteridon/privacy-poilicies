@@ -1,1 +1,1 @@
-# privacy-poilicies
+# privacy-policies
