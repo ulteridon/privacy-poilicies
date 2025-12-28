@@ -9,7 +9,8 @@ Welcome to the privacy policies for ulteridon's apps and games.
 - [Christmas Icon Pack](christmas_icon_pack_privacy_policy.md) - Christmas-themed Android icon pack
 - [WordRush](wordRush_privacy_policy.md) - Word game mobile app
 - [Battery Charging Animations](battery_charging_animations_privacyPolicy.md) - Battery charging animation app
+- [CleanSwipe](cleanSwipe_privacy_policy.md) - Photo and video gallery management app
 
 ---
 
-*Last updated: December 27, 2025*
+*Last updated: December 28, 2025*
