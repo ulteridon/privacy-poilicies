@@ -243,9 +243,8 @@ By using CleanSwipe, you agree to the collection and use of information in accor
 
 **If you have questions about this Privacy Policy:**
 
-- **Email:** [Your Email Address]
-- **Developer:** [Your Name/Company Name]
-- **Address:** [Your Address if applicable]
+- **Email:** asquare938@gmail.com
+- **Developer:** ulteridon
 
 **For app-related support:**
 - Open an issue on our GitHub repository
@@ -267,23 +266,3 @@ By using CleanSwipe, you agree to the collection and use of information in accor
 ---
 
 **This privacy policy is effective as of December 28, 2024.**
-
----
-
-## Google Play Store Requirements
-
-*If publishing on Google Play, ensure you:*
-- Provide a link to this privacy policy in your app store listing
-- Implement consent mechanisms for ads if required by region (GDPR, CCPA)
-- Declare all permissions and explain their use
-- Follow Google's User Data Policy
-- Implement Google's consent SDK if serving ads in EEA
-
----
-
-**Note to Developer:**
-- Replace `[Your Email Address]`, `[Your Name/Company Name]`, and `[Your Address]` with actual information
-- Review Google Play's privacy policy requirements
-- Consider consulting a legal professional for compliance with GDPR, CCPA, and other regulations
-- Add specific ad network privacy policy links once determined
-- Update this policy before publishing to any app store
