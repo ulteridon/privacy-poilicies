@@ -11,7 +11,8 @@ Welcome to the privacy policies for ulteridon's apps and games.
 - [Battery Charging Animations](battery_charging_animations_privacyPolicy.md) - Battery charging animation app
 - [Manjhari](manjhari_privacy_policy.md) - Devotional audio player moble app
 - [CleanSwipe](cleanSwipe_privacy_policy.md) - Photo and video gallery management app
+- [Mirage](mirage_privacy_policy.md) - AI companion chat app for adults (18+)
 
 ---
 
-*Last updated: March 24, 2026*
+*Last updated: March 29, 2026*
