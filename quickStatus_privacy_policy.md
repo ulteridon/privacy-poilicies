@@ -1,12 +1,12 @@
-# Privacy Policy for Quick Stats
+# Privacy Policy for Quick Status
 
 **Last Updated:** April 21, 2026
 
 ## Introduction
 
-Quick Stats ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application Quick Stats (the "App"), a photo maker app that lets you create images from templates using photos from your device.
+Quick Status ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application Quick Status (the "App"), a photo maker app that lets you create images from templates using photos from your device.
 
-By using Quick Stats, you agree to the collection and use of information in accordance with this policy.
+By using Quick Status, you agree to the collection and use of information in accordance with this policy.
 
 ---
 
@@ -21,12 +21,12 @@ By using Quick Stats, you agree to the collection and use of information in acco
 - Account credentials
 - Personal identifiers
 
-Quick Stats does not require an account or sign-in to use.
+Quick Status does not require an account or sign-in to use.
 
 ### 1.2 Photos and Media
 
 **Local Access Only:**
-- Quick Stats requires access to your device's photo gallery so you can select images to use in templates and to save the images you create
+- Quick Status requires access to your device's photo gallery so you can select images to use in templates and to save the images you create
 - All photo selection, editing, composition, and rendering happens **locally on your device**
 - Photos are **NEVER uploaded** to our servers or any third-party servers
 - We do not store, back up, or transmit your photos, videos, or the images you create anywhere off your device
@@ -41,7 +41,7 @@ Quick Stats does not require an account or sign-in to use.
 ### 1.3 Templates and Created Images
 
 - Templates are bundled with the app or generated locally on your device
-- The images you compose using Quick Stats are saved to your device's photo gallery via the standard media library APIs
+- The images you compose using Quick Status are saved to your device's photo gallery via the standard media library APIs
 - We do not keep a copy of any template, project, or output you create
 
 ### 1.4 Profile Picture
@@ -51,7 +51,7 @@ Quick Stats does not require an account or sign-in to use.
 
 ### 1.5 App Data (Local Storage)
 
-Quick Stats uses your device's local storage (AsyncStorage) to remember:
+Quick Status uses your device's local storage (AsyncStorage) to remember:
 - Your preferences and settings
 - Onboarding state
 - Any locally saved project data
@@ -60,7 +60,7 @@ This data never leaves your device and is removed when you uninstall the app.
 
 ### 1.6 Usage and Diagnostic Data
 
-Quick Stats does not include its own analytics SDK. We do not collect usage statistics, crash reports, or diagnostic data directly. Your device's app store (Google Play or Apple App Store) may collect aggregated crash and usage data under its own privacy policy.
+Quick Status does not include its own analytics SDK. We do not collect usage statistics, crash reports, or diagnostic data directly. Your device's app store (Google Play or Apple App Store) may collect aggregated crash and usage data under its own privacy policy.
 
 ---
 
@@ -85,7 +85,7 @@ Quick Stats does not include its own analytics SDK. We do not collect usage stat
 
 ### 3.2 User-Initiated Sharing
 
-When you share an image you created from Quick Stats:
+When you share an image you created from Quick Status:
 - Sharing is done directly through your device's native share sheet
 - You explicitly choose what to share and where (e.g., WhatsApp, Instagram, email)
 - We do not intercept, store, or access shared content
@@ -123,21 +123,21 @@ We may disclose information if required to do so by law or in response to:
 
 **You have full control:**
 - Grant or revoke photo, media, or audio permissions at any time through device settings
-- Android: Settings → Apps → Quick Stats → Permissions
-- iOS: Settings → Quick Stats → Photos / Microphone
+- Android: Settings → Apps → Quick Status → Permissions
+- iOS: Settings → Quick Status → Photos / Microphone
 - Revoking required permissions may prevent parts of the app from functioning
 
 ### 5.2 Data Deletion
 
 - All app data is stored locally on your device
-- Uninstalling Quick Stats removes all app data, settings, and profile picture
+- Uninstalling Quick Status removes all app data, settings, and profile picture
 - Photos and videos in your gallery are not affected by uninstalling
 
 ---
 
 ## 6. Children's Privacy
 
-Quick Stats is not directed to children under 13.
+Quick Status is not directed to children under 13.
 - We do not knowingly collect information from children under 13
 - If you are a parent or guardian and believe your child has provided us with information, please contact us and we will take steps to address it
 
@@ -154,13 +154,13 @@ App store platforms may collect diagnostic and purchase data under their own pol
 
 ### 7.2 Sharing Destinations
 
-When you share content from Quick Stats to other apps, those apps are responsible for how they handle the shared content. Please review their privacy policies.
+When you share content from Quick Status to other apps, those apps are responsible for how they handle the shared content. Please review their privacy policies.
 
 ---
 
 ## 8. International Users
 
-All image processing happens locally on your device. Because we do not transmit your photos or personal information off-device, there is no cross-border transfer of personal data performed by Quick Stats itself. Any data handled by platform providers (Google, Apple) is governed by their respective policies.
+All image processing happens locally on your device. Because we do not transmit your photos or personal information off-device, there is no cross-border transfer of personal data performed by Quick Status itself. Any data handled by platform providers (Google, Apple) is governed by their respective policies.
 
 ---
 
@@ -175,7 +175,7 @@ All image processing happens locally on your device. Because we do not transmit 
 
 ## 10. Your Consent
 
-By using Quick Stats, you consent to:
+By using Quick Status, you consent to:
 - This Privacy Policy
 - The local, on-device access to photos and media described above
 
