@@ -40,10 +40,9 @@ During onboarding you may enter a display name and choose a profile photo. Both 
 - We do not read, index, or scan the rest of your photo library
 
 **Permissions Used:**
-- `READ_MEDIA_IMAGES` (Android 13+) – To let you pick a profile photo
-- `READ_MEDIA_VISUAL_USER_SELECTED` (Android 14+) – To access only the photos you explicitly select
-- `READ_EXTERNAL_STORAGE` (Android 12 and below) – To let you pick a profile photo
-- iOS Photos (read) – To let you pick a profile photo
+- MyStyle uses the **system photo picker** on both Android and iOS. The picker hands the App only the single photo you choose, so **no photo-library, storage, or media permission is requested** on Android
+- iOS may show its standard Photos prompt; only the photo you select is shared with the App
+- `INTERNET` – To download template content (see 1.4)
 
 MyStyle does not request camera, microphone, location, video, or audio permissions.
 
@@ -130,10 +129,9 @@ Because we hold no user data on our servers, there is in practice nothing for us
 ### 5.1 Photo Access
 
 **You have full control:**
-- Grant or revoke photo permission at any time through device settings
-- Android: Settings → Apps → MyStyle → Permissions
-- iOS: Settings → MyStyle → Photos
-- Revoking the permission only prevents choosing a new profile photo; the rest of the app keeps working
+- MyStyle only ever receives the single photo you pick in the system photo picker
+- On iOS you can review or revoke photo access at any time: Settings → MyStyle → Photos
+- Declining to pick a photo only means templates show without a profile picture; the rest of the app keeps working
 
 ### 5.2 Data Deletion
 
@@ -211,7 +209,7 @@ By using MyStyle, you consent to:
 ✅ **Your photo and name NEVER leave your device**
 ✅ **We do NOT collect personal information**
 ✅ **No account or sign-in required**
-✅ **Only photo-library (read) permission is requested — no camera, microphone, or location**
+✅ **No photo-library, camera, microphone, or location permissions — the system photo picker hands us only the photo you choose**
 ✅ **All poster creation happens locally**
 ✅ **We do NOT sell or share your data**
 ✅ **Sharing is done through your device's native share sheet**
