@@ -12,8 +12,8 @@ Welcome to the privacy policies for ulteridon's apps and games.
 - [Manjhari](manjhari_privacy_policy.md) - Devotional audio player moble app
 - [CleanSwipe](cleanSwipe_privacy_policy.md) - Photo and video gallery management app
 - [Mirage](mirage_privacy_policy.md) - AI companion chat app for adults (18+)
-- [Quick Status](quickStatus_privacy_policy.md) - Photo maker app for creating images from templates
+- [MyStyle](mystyle_privacy_policy.md) - Photo-poster and greeting-card maker (formerly Quick Status) · [Support](mystyle_support.md)
 
 ---
 
-*Last updated: April 21, 2026*
+*Last updated: September 10, 2026*
