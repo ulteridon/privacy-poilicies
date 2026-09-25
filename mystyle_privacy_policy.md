@@ -1,6 +1,6 @@
 # Privacy Policy for MyStyle
 
-**Last Updated:** September 10, 2026
+**Last Updated:** September 26, 2026
 
 ## Introduction
 
@@ -20,7 +20,7 @@ By using MyStyle, you agree to the collection and use of information in accordan
 - Account credentials
 - Advertising or device identifiers
 
-MyStyle does not require an account or sign-in to use.
+MyStyle does not have user accounts. The **Sign up** and **Log in** buttons on the welcome screen only start the setup steps on your device; they do not create an account, ask for a password, or send anything to us.
 
 ### 1.2 Your Display Name and Profile Photo
 
@@ -31,7 +31,17 @@ During onboarding you may enter a display name and choose a profile photo. Both 
 - You can change or remove them at any time from the Profile screen
 - Uninstalling the app deletes them
 
-### 1.3 Photos and Media
+### 1.3 Interests, Location, and Faith (Optional)
+
+During setup MyStyle asks what you like to share (for example Birthday, Shayari, Diwali), and optionally where you are (a city or state you type in) and your faith (for example Hindu, Muslim, Christian, or "Prefer not to say").
+
+- These answers are used **only on your device** to order templates and images, show relevant festival suggestions, and decide which categories to keep downloaded for offline use
+- They are stored **locally on your device** and are **never uploaded** to our servers or any third party
+- Location is **what you type**, not your device's location; MyStyle does not use GPS or request location permission
+- Faith is **optional**; you can choose "Prefer not to say" or skip it, and the app works the same way
+- You can change these answers at any time in Profile → Personalisation
+
+### 1.4 Photos and Media
 
 **Local Access Only:**
 - MyStyle asks for access to your photo library only so you can pick a profile photo
@@ -42,28 +52,29 @@ During onboarding you may enter a display name and choose a profile photo. Both 
 **Permissions Used:**
 - MyStyle uses the **system photo picker** on both Android and iOS. The picker hands the App only the single photo you choose, so **no photo-library, storage, or media permission is requested** on Android
 - iOS may show its standard Photos prompt; only the photo you select is shared with the App
-- `INTERNET` – To download template content (see 1.4)
+- `INTERNET` – To download template content (see 1.5)
 
 MyStyle does not request camera, microphone, location, video, or audio permissions.
 
-### 1.4 Templates and Content Downloads
+### 1.5 Templates and Content Downloads
 
 Templates, background images, and caption text are published by us and downloaded by the App from our content server (hosted on GitHub).
 
-- These downloads request **only public content files**; they do not include your name, photo, or any personal data
+- These downloads request **only public content files**; they do not include your name, photo, interests, location, faith, or any personal data
 - As with any internet download, the hosting provider (GitHub) can see your device's IP address and standard request metadata under [GitHub's Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 - Downloaded content is cached on your device so the App works offline
 
-### 1.5 App Data (Local Storage)
+### 1.6 App Data (Local Storage)
 
 MyStyle uses your device's local storage to remember:
 - Your display name and profile photo
+- Your interests, and the optional location and faith answers (see 1.3)
 - Onboarding state and preferences
 - Cached templates and content
 
 This data never leaves your device and is removed when you uninstall the app.
 
-### 1.6 Usage and Diagnostic Data
+### 1.7 Usage and Diagnostic Data
 
 MyStyle does not include an analytics SDK and does not collect usage statistics, crash reports, or diagnostic data. Your device's app store (Google Play or Apple App Store) may collect aggregated crash and usage data under its own privacy policy.
 
@@ -76,7 +87,11 @@ MyStyle does not include an analytics SDK and does not collect usage statistics,
 - **Local processing only** – all rendering happens on your device
 - **Never transmitted** outside your device
 
-### 2.2 Local App Data
+### 2.2 Interests, Location, and Faith
+- To show the categories and festivals you care about first, and to keep those downloaded for offline use
+- Processed on your device only; never transmitted, sold, or used for advertising
+
+### 2.3 Local App Data
 - To personalize your experience and remember your settings between sessions
 - Stored locally, not shared with anyone
 
@@ -86,7 +101,7 @@ MyStyle does not include an analytics SDK and does not collect usage statistics,
 
 ### 3.1 We Do NOT Share Your Data
 
-**We do NOT sell, trade, or transfer your photos, name, or any personal information to third parties.**
+**We do NOT sell, trade, or transfer your photos, name, interests, location, faith, or any personal information to third parties.**
 
 ### 3.2 User-Initiated Sharing
 
@@ -111,7 +126,7 @@ Because we hold no user data on our servers, there is in practice nothing for us
 
 ### 4.1 Local Storage Only
 
-- Your name, photo, and created images remain on your device
+- Your name, photo, preferences, and created images remain on your device
 - We do not maintain any servers storing user data
 - All data is protected by your device's built-in security features
 - We recommend using device encryption and a screen lock for additional protection
@@ -133,7 +148,12 @@ Because we hold no user data on our servers, there is in practice nothing for us
 - On iOS you can review or revoke photo access at any time: Settings → MyStyle → Photos
 - Declining to pick a photo only means templates show without a profile picture; the rest of the app keeps working
 
-### 5.2 Data Deletion
+### 5.2 Changing Your Answers
+
+- Update your interests, location, or faith at any time in Profile → Personalisation
+- Clear the location field or choose "Prefer not to say" to remove those answers
+
+### 5.3 Data Deletion
 
 - All app data is stored locally on your device
 - Uninstalling MyStyle removes all app data, settings, your display name, and profile photo
@@ -187,7 +207,7 @@ All rendering happens locally on your device. Because we do not transmit your ph
 
 By using MyStyle, you consent to:
 - This Privacy Policy
-- The local, on-device use of your display name and photo described above
+- The local, on-device use of your display name, photo, and optional preferences described above
 - Downloading public template content from our content server
 
 ---
@@ -208,7 +228,8 @@ By using MyStyle, you consent to:
 
 ✅ **Your photo and name NEVER leave your device**
 ✅ **We do NOT collect personal information**
-✅ **No account or sign-in required**
+✅ **No accounts: "Sign up" and "Log in" only start setup on your device**
+✅ **Interests, location, and faith are optional, stay on your device, and only order your feed**
 ✅ **No photo-library, camera, microphone, or location permissions — the system photo picker hands us only the photo you choose**
 ✅ **All poster creation happens locally**
 ✅ **We do NOT sell or share your data**
@@ -217,4 +238,6 @@ By using MyStyle, you consent to:
 
 ---
 
-**This privacy policy is effective as of September 10, 2026.**
+**This privacy policy is effective as of September 26, 2026.**
+
+See also our [Terms of Service](policy.html?file=mystyle_terms.md).
