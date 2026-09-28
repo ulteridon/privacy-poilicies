@@ -1,12 +1,12 @@
-# Privacy Policy for MyStyle
+# Privacy Policy for Patra
 
-**Last Updated:** September 26, 2026
+**Last Updated:** September 29, 2026
 
 ## Introduction
 
-MyStyle ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application MyStyle (the "App"), a photo-poster and greeting-card maker that places your name and photo onto templates and lets you share the result.
+Patra ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application Patra (the "App"), a photo-poster and greeting-card maker that places your name and photo onto templates and lets you share the result.
 
-By using MyStyle, you agree to the collection and use of information in accordance with this policy.
+By using Patra, you agree to the collection and use of information in accordance with this policy.
 
 ---
 
@@ -20,11 +20,11 @@ By using MyStyle, you agree to the collection and use of information in accordan
 - Account credentials
 - Advertising or device identifiers
 
-MyStyle does not have user accounts. The **Sign up** and **Log in** buttons on the welcome screen only start the setup steps on your device; they do not create an account, ask for a password, or send anything to us.
+Patra does not have user accounts. There is no sign-up or login, and nothing you enter is sent to us.
 
 ### 1.2 Your Display Name and Profile Photo
 
-During onboarding you may enter a display name and choose a profile photo. Both are used only to render them onto templates.
+You may enter a display name and choose a profile photo, on the Profile screen or the first time you personalise a poster. Both are used only to render them onto templates.
 
 - They are stored **locally on your device** (in the app's private storage) and nowhere else
 - They are **never uploaded** to our servers or any third-party servers
@@ -33,28 +33,28 @@ During onboarding you may enter a display name and choose a profile photo. Both 
 
 ### 1.3 Interests, Location, and Faith (Optional)
 
-During setup MyStyle asks what you like to share (for example Birthday, Shayari, Diwali), and optionally where you are (a city or state you type in) and your faith (for example Hindu, Muslim, Christian, or "Prefer not to say").
+In Profile → Personalisation, Patra lets you pick what you like to share (for example Birthday, Shayari, Diwali), and optionally where you are (a city or state you type in) and your faith (for example Hindu, Muslim, Christian, or "Prefer not to say").
 
 - These answers are used **only on your device** to order templates and images, show relevant festival suggestions, and decide which categories to keep downloaded for offline use
 - They are stored **locally on your device** and are **never uploaded** to our servers or any third party
-- Location is **what you type**, not your device's location; MyStyle does not use GPS or request location permission
+- Location is **what you type**, not your device's location; Patra does not use GPS or request location permission
 - Faith is **optional**; you can choose "Prefer not to say" or skip it, and the app works the same way
 - You can change these answers at any time in Profile → Personalisation
 
 ### 1.4 Photos and Media
 
 **Local Access Only:**
-- MyStyle asks for access to your photo library only so you can pick a profile photo
+- Patra asks for access to your photo library only so you can pick a profile photo
 - All composition and rendering of posters happens **locally on your device**
 - Photos are **never uploaded** to our servers or any third-party servers
 - We do not read, index, or scan the rest of your photo library
 
 **Permissions Used:**
-- MyStyle uses the **system photo picker** on both Android and iOS. The picker hands the App only the single photo you choose, so **no photo-library, storage, or media permission is requested** on Android
+- Patra uses the **system photo picker** on both Android and iOS. The picker hands the App only the single photo you choose, so **no photo-library, storage, or media permission is requested** on Android
 - iOS may show its standard Photos prompt; only the photo you select is shared with the App
 - `INTERNET` – To download template content (see 1.5)
 
-MyStyle does not request camera, microphone, location, video, or audio permissions.
+Patra does not request camera, microphone, location, video, or audio permissions.
 
 ### 1.5 Templates and Content Downloads
 
@@ -66,17 +66,17 @@ Templates, background images, and caption text are published by us and downloade
 
 ### 1.6 App Data (Local Storage)
 
-MyStyle uses your device's local storage to remember:
+Patra uses your device's local storage to remember:
 - Your display name and profile photo
 - Your interests, and the optional location and faith answers (see 1.3)
-- Onboarding state and preferences
+- Small preferences, such as whether you have seen the one-time tips
 - Cached templates and content
 
 This data never leaves your device and is removed when you uninstall the app.
 
 ### 1.7 Usage and Diagnostic Data
 
-MyStyle does not include an analytics SDK and does not collect usage statistics, crash reports, or diagnostic data. Your device's app store (Google Play or Apple App Store) may collect aggregated crash and usage data under its own privacy policy.
+Patra does not include an analytics SDK and does not collect usage statistics, crash reports, or diagnostic data. Your device's app store (Google Play or Apple App Store) may collect aggregated crash and usage data under its own privacy policy.
 
 ---
 
@@ -105,7 +105,7 @@ MyStyle does not include an analytics SDK and does not collect usage statistics,
 
 ### 3.2 User-Initiated Sharing
 
-When you share a poster or card you created in MyStyle:
+When you share a poster or card you created in Patra:
 - Sharing is done directly through your device's native share sheet
 - You explicitly choose what to share and where (e.g., WhatsApp, Instagram, email)
 - We do not intercept, store, or access shared content
@@ -144,8 +144,8 @@ Because we hold no user data on our servers, there is in practice nothing for us
 ### 5.1 Photo Access
 
 **You have full control:**
-- MyStyle only ever receives the single photo you pick in the system photo picker
-- On iOS you can review or revoke photo access at any time: Settings → MyStyle → Photos
+- Patra only ever receives the single photo you pick in the system photo picker
+- On iOS you can review or revoke photo access at any time: Settings → Patra → Photos
 - Declining to pick a photo only means templates show without a profile picture; the rest of the app keeps working
 
 ### 5.2 Changing Your Answers
@@ -156,14 +156,14 @@ Because we hold no user data on our servers, there is in practice nothing for us
 ### 5.3 Data Deletion
 
 - All app data is stored locally on your device
-- Uninstalling MyStyle removes all app data, settings, your display name, and profile photo
+- Uninstalling Patra removes all app data, settings, your display name, and profile photo
 - Photos in your gallery are not affected by uninstalling
 
 ---
 
 ## 6. Children's Privacy
 
-MyStyle is not directed to children under 13.
+Patra is not directed to children under 13.
 - We do not knowingly collect information from children under 13
 - If you are a parent or guardian and believe your child has provided us with information, please contact us and we will take steps to address it
 
@@ -184,13 +184,13 @@ Templates and content are served from GitHub: [GitHub Privacy Statement](https:/
 
 ### 7.3 Sharing Destinations
 
-When you share content from MyStyle to other apps, those apps are responsible for how they handle the shared content. Please review their privacy policies.
+When you share content from Patra to other apps, those apps are responsible for how they handle the shared content. Please review their privacy policies.
 
 ---
 
 ## 8. International Users
 
-All rendering happens locally on your device. Because we do not transmit your photos or personal information off-device, there is no cross-border transfer of personal data performed by MyStyle itself. Content downloads and any data handled by platform providers (Google, Apple, GitHub) are governed by their respective policies.
+All rendering happens locally on your device. Because we do not transmit your photos or personal information off-device, there is no cross-border transfer of personal data performed by Patra itself. Content downloads and any data handled by platform providers (Google, Apple, GitHub) are governed by their respective policies.
 
 ---
 
@@ -205,7 +205,7 @@ All rendering happens locally on your device. Because we do not transmit your ph
 
 ## 10. Your Consent
 
-By using MyStyle, you consent to:
+By using Patra, you consent to:
 - This Privacy Policy
 - The local, on-device use of your display name, photo, and optional preferences described above
 - Downloading public template content from our content server
@@ -228,7 +228,7 @@ By using MyStyle, you consent to:
 
 ✅ **Your photo and name NEVER leave your device**
 ✅ **We do NOT collect personal information**
-✅ **No accounts: "Sign up" and "Log in" only start setup on your device**
+✅ **No accounts and no sign-up**
 ✅ **Interests, location, and faith are optional, stay on your device, and only order your feed**
 ✅ **No photo-library, camera, microphone, or location permissions — the system photo picker hands us only the photo you choose**
 ✅ **All poster creation happens locally**
@@ -238,6 +238,6 @@ By using MyStyle, you consent to:
 
 ---
 
-**This privacy policy is effective as of September 26, 2026.**
+**This privacy policy is effective as of September 29, 2026.**
 
 See also our [Terms of Service](policy.html?file=mystyle_terms.md).

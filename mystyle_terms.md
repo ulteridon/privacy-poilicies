@@ -1,16 +1,16 @@
-# Terms of Service for MyStyle
+# Terms of Service for Patra
 
-**Last Updated:** September 26, 2026
+**Last Updated:** September 29, 2026
 
 ## 1. Agreement
 
-These Terms of Service ("Terms") govern your use of the MyStyle mobile application (the "App"), provided by ulteridon ("we," "our," or "us"). By tapping **Sign up** or **Log in**, or by otherwise using the App, you agree to these Terms and acknowledge our [Privacy Policy](policy.html?file=mystyle_privacy_policy.md). If you do not agree, please do not use the App.
+These Terms of Service ("Terms") govern your use of the Patra mobile application (the "App"), provided by ulteridon ("we," "our," or "us"). By using the App, you agree to these Terms and acknowledge our [Privacy Policy](policy.html?file=mystyle_privacy_policy.md). If you do not agree, please do not use the App.
 
 ---
 
-## 2. What MyStyle Does
+## 2. What Patra Does
 
-MyStyle lets you place your name and photo onto greeting and festival templates, add captions to images, and share the result through your device's share sheet. Templates and images are downloaded from our content server; your posters are created on your device.
+Patra lets you place your name and photo onto greeting and festival templates, add captions to images, and share the result through your device's share sheet. Templates and images are downloaded from our content server; your posters are created on your device.
 
 ---
 
@@ -43,7 +43,7 @@ You also agree not to reverse engineer, disrupt, or misuse the App or our conten
 
 ## 6. Religious and Cultural Content
 
-MyStyle includes greetings for festivals and occasions from many traditions. This content is offered respectfully for personal celebration. Please do not alter it to mock or disparage any faith or community.
+Patra includes greetings for festivals and occasions from many traditions. This content is offered respectfully for personal celebration. Please do not alter it to mock or disparage any faith or community.
 
 ---
 
@@ -86,4 +86,4 @@ These Terms are governed by the laws of India, without regard to conflict-of-law
 
 ---
 
-**These Terms are effective as of September 26, 2026.**
+**These Terms are effective as of September 29, 2026.**
