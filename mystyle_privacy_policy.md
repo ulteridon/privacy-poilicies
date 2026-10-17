@@ -1,6 +1,6 @@
 # Privacy Policy for Patra
 
-**Last Updated:** September 29, 2026
+**Last Updated:** October 18, 2026
 
 ## Introduction
 
@@ -22,22 +22,22 @@ By using Patra, you agree to the collection and use of information in accordance
 
 Patra does not have user accounts. There is no sign-up or login, and nothing you enter is sent to us.
 
-### 1.2 Your Display Name and Profile Photo
+### 1.2 Your Display Name and Photos
 
-You may enter a display name and choose a profile photo, on the Profile screen or the first time you personalise a poster. Both are used only to render them onto templates.
+You may enter a display name (and, optionally, how it is written in Hindi) and add photos of yourself, on the Profile screen or the first time you personalise a poster. Patra keeps up to 12 of your photos so you can switch between them, and remembers how you placed a photo on each poster. All of this is used only to render your posters.
 
 - They are stored **locally on your device** (in the app's private storage) and nowhere else
 - They are **never uploaded** to our servers or any third-party servers
-- You can change or remove them at any time from the Profile screen
+- You can change your name, switch photos, or remove any saved photo at any time from the Profile screen
 - Uninstalling the app deletes them
 
 ### 1.3 Interests, Location, and Faith (Optional)
 
-In Profile → Personalisation, Patra lets you pick what you like to share (for example Birthday, Shayari, Diwali), and optionally where you are (a city or state you type in) and your faith (for example Hindu, Muslim, Christian, or "Prefer not to say").
+In Profile → Personalisation, Patra lets you pick what you like to share (for example Birthday, Shayari, Diwali), and optionally where you are (a state or union territory you pick from a list) and your faith (for example Hindu, Muslim, Christian, or "Prefer not to say").
 
 - These answers are used **only on your device** to order templates and images, show relevant festival suggestions, and decide which categories to keep downloaded for offline use
 - They are stored **locally on your device** and are **never uploaded** to our servers or any third party
-- Location is **what you type**, not your device's location; Patra does not use GPS or request location permission
+- Location is **the state you pick**, not your device's location; Patra does not use GPS or request location permission
 - Faith is **optional**; you can choose "Prefer not to say" or skip it, and the app works the same way
 - You can change these answers at any time in Profile → Personalisation
 
@@ -67,7 +67,7 @@ Templates, background images, and caption text are published by us and downloade
 ### 1.6 App Data (Local Storage)
 
 Patra uses your device's local storage to remember:
-- Your display name and profile photo
+- Your display name (and its Hindi spelling), your saved photos and how you placed them on posters
 - Your interests, and the optional location and faith answers (see 1.3)
 - Small preferences, such as whether you have seen the one-time tips
 - Cached templates and content
