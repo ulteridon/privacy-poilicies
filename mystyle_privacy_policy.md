@@ -1,6 +1,6 @@
 # Privacy Policy for Patra
 
-**Last Updated:** October 18, 2026
+**Last Updated:** October 27, 2026
 
 ## Introduction
 
@@ -78,6 +78,16 @@ This data never leaves your device and is removed when you uninstall the app.
 
 Patra does not include an analytics SDK and does not collect usage statistics, crash reports, or diagnostic data. Your device's app store (Google Play or Apple App Store) may collect aggregated crash and usage data under its own privacy policy.
 
+### 1.8 Purchases (Patra Pro)
+
+Patra Pro is an optional subscription that removes the watermark from shared posters. If you buy or restore Patra Pro:
+- **Payment is handled entirely by Google Play.** We never see your card, UPI, bank, or billing details.
+- To unlock Pro on your device, the App uses **RevenueCat** (RevenueCat, Inc.), a subscription-management service. RevenueCat receives a random, anonymous app user ID generated on your device, your purchase token and purchase history for Patra Pro (product, price, currency, purchase and renewal dates), your device's country and app version. It does **not** receive your name, photo, interests, location, or faith.
+- We use this only to check whether you have Pro, restore it on a new phone, and see total subscription numbers.
+- Your Pro status is also saved on your device so it works offline.
+
+If you never open the Pro page or buy Pro, RevenueCat still receives the anonymous ID when the App checks for a subscription, but no purchase data exists.
+
 ---
 
 ## 2. How We Use Your Information
@@ -101,7 +111,7 @@ Patra does not include an analytics SDK and does not collect usage statistics, c
 
 ### 3.1 We Do NOT Share Your Data
 
-**We do NOT sell, trade, or transfer your photos, name, interests, location, faith, or any personal information to third parties.**
+**We do NOT sell, trade, or transfer your photos, name, interests, location, faith, or any personal information to third parties.** The only data that leaves your device for our own purposes is the anonymous purchase information described in section 1.8, which goes to RevenueCat solely to manage Patra Pro.
 
 ### 3.2 User-Initiated Sharing
 
@@ -182,7 +192,11 @@ App store platforms may collect diagnostic and purchase data under their own pol
 
 Templates and content are served from GitHub: [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
-### 7.3 Sharing Destinations
+### 7.3 Subscriptions
+
+Patra Pro purchases are processed by Google Play and managed through RevenueCat: [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy). To delete your purchase records held by RevenueCat, email us (section 11) and we will request deletion; Google Play keeps its own records under Google's policy.
+
+### 7.4 Sharing Destinations
 
 When you share content from Patra to other apps, those apps are responsible for how they handle the shared content. Please review their privacy policies.
 
@@ -190,7 +204,7 @@ When you share content from Patra to other apps, those apps are responsible for 
 
 ## 8. International Users
 
-All rendering happens locally on your device. Because we do not transmit your photos or personal information off-device, there is no cross-border transfer of personal data performed by Patra itself. Content downloads and any data handled by platform providers (Google, Apple, GitHub) are governed by their respective policies.
+All rendering happens locally on your device. Your photos and personal information are never transmitted off-device. If you use Patra Pro, the anonymous purchase information in section 1.8 is processed by RevenueCat, which may store it outside India (including in the United States). Content downloads and any data handled by platform providers (Google, Apple, GitHub) are governed by their respective policies.
 
 ---
 
@@ -227,7 +241,7 @@ By using Patra, you consent to:
 ## Summary of Key Points
 
 ✅ **Your photo and name NEVER leave your device**
-✅ **We do NOT collect personal information**
+✅ **We do NOT collect personal information** (Patra Pro purchases are handled by Google Play; RevenueCat gets only an anonymous ID and purchase history)
 ✅ **No accounts and no sign-up**
 ✅ **Interests, location, and faith are optional, stay on your device, and only order your feed**
 ✅ **No photo-library, camera, microphone, or location permissions — the system photo picker hands us only the photo you choose**
@@ -238,6 +252,6 @@ By using Patra, you consent to:
 
 ---
 
-**This privacy policy is effective as of September 29, 2026.**
+**This privacy policy is effective as of October 27, 2026.**
 
 See also our [Terms of Service](policy.html?file=mystyle_terms.md).

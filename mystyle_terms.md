@@ -1,6 +1,6 @@
 # Terms of Service for Patra
 
-**Last Updated:** September 29, 2026
+**Last Updated:** October 27, 2026
 
 ## 1. Agreement
 
@@ -47,7 +47,19 @@ Patra includes greetings for festivals and occasions from many traditions. This 
 
 ---
 
-## 7. Availability and Changes
+## 7. Patra Pro (Subscriptions)
+
+- Patra is free to download and use. Posters and cards you share without Patra Pro carry a visible Patra watermark.
+- **Patra Pro** removes the watermark from everything you share. It is sold through Google Play as an auto-renewing subscription, monthly or yearly, at the price shown in the App before you buy (prices include applicable taxes).
+- **Introductory offer:** new subscribers to the monthly plan may get a lower price for the first month, as shown in the App. After that month it renews at the regular monthly price unless you cancel.
+- **Renewal and cancellation:** subscriptions renew automatically at the end of each period until you cancel. You can cancel any time in Google Play → Payments & subscriptions → Subscriptions; you keep Pro until the end of the period you paid for.
+- **Refunds** are handled by Google Play under its refund policy.
+- **Restore:** use "Restore" on the Pro page to get Pro back on a new phone signed in to the same Google account.
+- We may change Pro features or prices; price changes follow Google Play's rules and notices.
+
+---
+
+## 8. Availability and Changes
 
 - We may add, change, or remove templates, features, or content at any time.
 - The App needs an internet connection to download new content; some content may remain available offline.
@@ -55,35 +67,35 @@ Patra includes greetings for festivals and occasions from many traditions. This 
 
 ---
 
-## 8. Disclaimers
+## 9. Disclaimers
 
 The App is provided **"as is"** and **"as available,"** without warranties of any kind, to the extent permitted by law. We do not guarantee that the App will be uninterrupted, error-free, or that festival dates shown in the App are exact.
 
 ---
 
-## 9. Limitation of Liability
+## 10. Limitation of Liability
 
 To the fullest extent permitted by law, we are not liable for any indirect, incidental, or consequential damages arising from your use of the App, including content you create or share.
 
 ---
 
-## 10. Termination
+## 11. Termination
 
 You can stop using the App at any time by uninstalling it. We may suspend access to our content server for anyone who violates these Terms.
 
 ---
 
-## 11. Governing Law
+## 12. Governing Law
 
 These Terms are governed by the laws of India, without regard to conflict-of-law rules.
 
 ---
 
-## 12. Contact Us
+## 13. Contact Us
 
 - **Email:** asquare938@gmail.com
 - **Developer:** ulteridon
 
 ---
 
-**These Terms are effective as of September 29, 2026.**
+**These Terms are effective as of October 27, 2026.**
