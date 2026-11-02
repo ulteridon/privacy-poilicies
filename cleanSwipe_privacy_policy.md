@@ -63,7 +63,7 @@ The free version of Swipy shows banner, full-screen and rewarded ads from **Goog
 - IP address and the approximate location it implies (city or country level)
 - Which ads you see and tap
 
-**Consent:** Where the law requires it (for example in the EEA, UK and Switzerland), Swipy shows Google's consent form before any ad loads. You can decline personalised ads; Swipy then only requests non-personalised ads. You can change your choice later through Android settings (Settings → Google → Ads) or by resetting your advertising ID.
+**Consent:** Where the law requires it (for example in the EEA, UK and Switzerland), Swipy shows Google's consent form before any ad loads. If you decline, Google serves only limited or non-personalised ads based on your choices in that form. You can change your choice later through Android settings (Settings → Google → Ads) or by resetting your advertising ID.
 
 Ads are governed by Google's policies: [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites) and the [Google Privacy Policy](https://policies.google.com/privacy).
 
