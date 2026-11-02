@@ -1,12 +1,16 @@
-# Privacy Policy for CleanSwipe
+# Privacy Policy for Swipy: Swipe Photo Cleaner
 
-**Last Updated:** December 28, 2024
+**App name on Google Play:** Swipy: Swipe Photo Cleaner (earlier name: CleanSwipe)
+**Package name:** com.cleanswipe.app
+**Developer:** Ulteritude (Google Play developer account), contact asquare938@gmail.com
+
+**Last Updated:** November 2, 2026
 
 ## Introduction
 
-CleanSwipe ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application CleanSwipe (the "App"). Please read this privacy policy carefully.
+Swipy ("we," "our," or "us") is a photo, video and PDF cleaner for Android published by Ulteritude. You swipe left to delete and right to keep, review your choices, and free up storage. This Privacy Policy explains what information the Swipy app (the "App") handles, what stays on your device, and what reaches third parties. Please read it carefully.
 
-By using CleanSwipe, you agree to the collection and use of information in accordance with this policy.
+By using Swipy, you agree to the collection and use of information in accordance with this policy.
 
 ---
 
@@ -18,251 +22,204 @@ By using CleanSwipe, you agree to the collection and use of information in accor
 - Your name
 - Email address
 - Phone number
-- Personal identifiers
+- Account credentials
 
-### 1.2 Photos and Videos
+Swipy has no user accounts. There is no sign-up or login, and nothing you type is sent to us.
 
-**Local Access Only:**
-- CleanSwipe requires access to your device's photo and video gallery to function
-- We access photos and videos **only on your device**
-- Photos and videos are **NEVER uploaded** to our servers or any third-party servers
-- All photo and video processing happens **locally on your device**
-- We do not store, backup, or transmit your photos/videos anywhere
+### 1.2 Photos, Videos and PDFs
 
-**Permissions Required:**
-- `READ_MEDIA_IMAGES` (Android 13+) - To view your photos
-- `READ_MEDIA_VIDEO` (Android 13+) - To view your videos
-- `READ_EXTERNAL_STORAGE` (Android 12 and below) - To access media files
+**Local access only:**
+- Swipy needs access to the photos and videos on your device, and to any PDF folder you choose, in order to show them to you
+- Your files are read **only on your device**
+- Photos, videos and PDFs are **NEVER uploaded** to our servers or to any third party
+- Nothing about the content of your files (faces, places, text) is analysed off-device
 
-### 1.3 Photo/Video Deletion
+**Permissions used:**
+- `READ_MEDIA_IMAGES` and `READ_MEDIA_VIDEO` (Android 13 and later) to list your photos and videos
+- `READ_MEDIA_VISUAL_USER_SELECTED` (Android 14 and later) so you can grant access to only the photos you pick
+- `READ_EXTERNAL_STORAGE` (Android 12 and earlier) for the same purpose
+- Access to a PDF folder you select through the system folder picker
 
-- When you choose to delete photos/videos through CleanSwipe, deletion is performed **directly on your device**
-- We do not keep any record of deleted files
-- Deletion is permanent and cannot be reversed by us
-- **You are responsible for ensuring you have backups** of any photos/videos you wish to keep
+### 1.3 Deleting Files
 
-### 1.4 Sharing Functionality
+- When you delete through Swipy, the deletion is performed **on your device** through Android's own media deletion dialog
+- You review and confirm every deletion before it happens
+- We keep no record of what you deleted
+- Deleted files may be recoverable from your device's or Google Photos' trash for a limited time, depending on your device. **Keep backups of anything you want to keep.**
 
-**When you share images:**
-- Sharing is done directly through your device's native sharing capabilities
-- We do not intercept, store, or access shared content
-- Shared images go directly to the app/service you select (WhatsApp, Instagram, email, etc.)
-- We have no control over how third-party services handle your shared content
+### 1.4 Sharing
 
-### 1.5 Usage Statistics
+If you share a file from Swipy, it goes directly from your device to the app you choose (for example WhatsApp or email) through Android's share sheet. We do not see, store or intercept shared content, and we have no control over how that app handles it.
 
-**We collect minimal, anonymous usage data:**
-- Number of photos/videos processed
-- Storage space freed
-- Feature usage (which sorting mode you use, etc.)
-- This data is stored **locally on your device only**
-- We do not collect or transmit this data to our servers
+### 1.5 Usage Statistics Stored on Your Device
 
-### 1.6 Advertising Data
+Swipy keeps counts such as the number of items you reviewed, how much storage you freed, your daily free-use allowance, your theme choice and whether you have finished onboarding. This data is stored **locally on your device only** and is deleted when you uninstall the App.
 
-**Third-Party Advertising:**
-- CleanSwipe displays advertisements through third-party advertising networks
-- Ad networks may collect certain information automatically, including:
-  - Device type and model
-  - Operating system version
-  - Unique device identifiers (Advertising ID)
-  - IP address
-  - App usage data
-  - General location (city/country level, not precise location)
+### 1.6 Advertising (Google AdMob)
 
-**Ad Personalization:**
-- Ads may be personalized based on your interests
-- You can opt-out of personalized ads through your device settings:
-  - **Android:** Settings → Google → Ads → Opt out of Ads Personalization
+The free version of Swipy shows banner, full-screen and rewarded ads from **Google AdMob**. When an ad is requested, Google may receive:
+- Device type and model, operating system version and app version
+- Your advertising ID (resettable in Android settings)
+- IP address and the approximate location it implies (city or country level)
+- Which ads you see and tap
 
-**Third-Party Ad Partners:**
-- Google AdMob (or other ad networks we may use)
-- These partners have their own privacy policies governing their data collection and use
-- We recommend reviewing their privacy policies:
-  - [Google AdMob Privacy Policy](https://policies.google.com/privacy)
+**Consent:** Where the law requires it (for example in the EEA, UK and Switzerland), Swipy shows Google's consent form before any ad loads. You can decline personalised ads; Swipy then only requests non-personalised ads. You can change your choice later through Android settings (Settings → Google → Ads) or by resetting your advertising ID.
+
+Ads are governed by Google's policies: [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites) and the [Google Privacy Policy](https://policies.google.com/privacy).
+
+If you buy the Ad-free or Pro upgrade (section 1.8), no ads are shown and no ad requests are made.
+
+### 1.7 App Analytics (Google Analytics for Firebase)
+
+Swipy includes **Google Analytics for Firebase**, which automatically collects anonymous app usage data: app opens, screen views, session length, crashes, device model, operating system version, country and app version, tied to a random app-instance ID. We use it only to see how many people use the App and which features are used. It does **not** receive your photos, file names or anything you type.
+
+Firebase data is processed by Google under the [Google Privacy Policy](https://policies.google.com/privacy). You can reset the app-instance ID by clearing the App's data or reinstalling.
+
+### 1.8 Purchases (Swipy Pro and Ad-free)
+
+Swipy offers two optional one-time purchases through Google Play: **Ad-free** (removes ads) and **Swipy Pro** (removes ads and lifts the daily limits on video and PDF cleanup). Payment is handled entirely by Google Play; we never see your card or billing details.
+
+To unlock and restore purchases, the App uses **RevenueCat** (RevenueCat, Inc.), a purchase-management service. RevenueCat receives a random, anonymous app user ID generated on your device, your Google Play purchase token and purchase history for these products (product, price, currency, purchase date), your device's country and app version. It does **not** receive your name, photos or any file information.
+
+- We use this only to check whether you own Pro or Ad-free, restore it on a new phone, and see total sales figures
+- Your purchase status is also saved on your device so it works offline
+- If you never buy anything, RevenueCat still receives the anonymous ID when the App checks for purchases, but no purchase data exists
+
+RevenueCat's handling of this data is described in the [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy).
 
 ---
 
 ## 2. How We Use Your Information
 
-### 2.1 Photos and Videos
-- **Solely for app functionality** - organizing, viewing, and managing your media
-- **Local processing only** - all operations happen on your device
+### 2.1 Photos, Videos and PDFs
+- **Solely for app functionality:** showing you your files so you can keep or delete them
+- **Local processing only:** every operation happens on your device
 - **Never transmitted** outside your device
 
-### 2.2 Usage Statistics
-- To improve app performance and user experience
-- To understand which features are most useful
-- Stored locally, not shared with anyone
+### 2.2 Local Usage Statistics
+- To show you how much storage you have freed and how many items you reviewed
+- To apply the daily free-use limits
+- Stored locally, never sent to us
 
-### 2.3 Advertising
-- To display relevant advertisements
-- To generate revenue to support free app availability
-- Ad networks use their collected data for ad personalization and measurement
+### 2.3 Advertising and Analytics Data
+- To show ads that fund the free version, and to measure whether they load and display correctly
+- To understand how many people use Swipy and which features matter
+- Google processes this data under its own policies, as described in sections 1.6 and 1.7
+
+### 2.4 Purchase Data
+- To unlock Pro or Ad-free on your device and restore it when you reinstall or change phones
 
 ---
 
 ## 3. Data Sharing and Disclosure
 
-### 3.1 We Do NOT Share Your Personal Data
+### 3.1 We Do NOT Sell Your Data
 
-**We do NOT sell, trade, or transfer your photos, videos, or personal information to third parties.**
+**We do NOT sell, trade or transfer your photos, videos, PDFs or any personal information to third parties.** We have no servers of our own that receive your data.
 
-### 3.2 Third-Party Ad Networks
+### 3.2 Service Providers
 
-**Advertising partners may collect data as described in Section 1.6:**
-- This data collection is governed by their privacy policies
-- We do not control their data practices
-- You can opt-out through device settings
+The only third parties that receive data from Swipy are:
+
+| Provider | What it receives | Why |
+|---|---|---|
+| Google AdMob | Advertising ID, device and network information, ad interactions (free version only, after consent where required) | To show ads |
+| Google Analytics for Firebase | Anonymous usage events, device and app information, app-instance ID | To measure app usage |
+| RevenueCat | Anonymous app user ID, Google Play purchase token and purchase history | To unlock and restore purchases |
+| Google Play | Payment details for purchases (handled by Google, not seen by us) | To process purchases |
 
 ### 3.3 Legal Requirements
 
-**We may disclose information if required to do so by law or in response to:**
-- Valid legal processes (court orders, subpoenas)
-- Protecting our rights, property, or safety
-- Investigating fraud or security issues
+We may disclose information if required by law, for example in response to a court order, or to protect our rights or the safety of users. In practice we hold almost no information to disclose.
 
 ### 3.4 User-Initiated Sharing
 
-**When you use the sharing feature:**
-- You explicitly choose what to share and where
-- We are not responsible for how third-party apps/services handle your shared content
-- Review the privacy policies of apps you share content with
+When you share a file from Swipy, you choose what to share and where. The receiving app's privacy policy applies.
 
 ---
 
 ## 4. Data Security
 
-### 4.1 Local Storage Only
-
-**Your photos and videos remain on your device:**
-- We do not maintain any servers storing your media
-- All data is protected by your device's security features
-- Use device encryption and screen locks for additional security
-
-### 4.2 App Security
-
-**We implement reasonable security measures:**
-- No network transmission of sensitive data
-- Secure coding practices
-- Regular security reviews
-
-**However:**
-- No method of electronic storage is 100% secure
-- We cannot guarantee absolute security
-- You are responsible for maintaining your device's security
+- Your photos, videos and PDFs never leave your device through Swipy; they are protected by your device's own security (screen lock, encryption)
+- Local statistics and settings are stored in the App's private storage, which other apps cannot read
+- Data sent to Google and RevenueCat travels over encrypted (HTTPS) connections
+- No method of storage or transmission is completely secure, so we cannot guarantee absolute security
 
 ---
 
 ## 5. Your Rights and Choices
 
-### 5.1 Photo/Video Access
+### 5.1 File Access
+You can grant, limit or revoke photo, video and folder access at any time in Android: Settings → Apps → Swipy → Permissions. Without access, the App cannot show your files.
 
-**You have full control:**
-- Grant or revoke photo/video access permissions at any time through device settings
-- Settings → Apps → CleanSwipe → Permissions
-- Revoking permissions will prevent the app from functioning
+### 5.2 Ads
+- Decline personalised ads in the consent form, or change your choice in Android settings (Settings → Google → Ads)
+- Reset or delete your advertising ID in the same place
+- Buy Ad-free or Pro to remove ads entirely
 
-### 5.2 Data Deletion
+### 5.3 Analytics
+Clearing the App's data or reinstalling resets the Firebase app-instance ID, which unlinks earlier anonymous usage data from your device.
 
-**Local data only:**
-- All app data (usage statistics, settings) is stored locally
-- Uninstalling the app removes all app-related data
-- Your photos/videos remain on your device unless you explicitly delete them
+### 5.4 Deleting Your Data
+- All local data (statistics, settings, purchase status) is removed when you uninstall the App
+- Your photos, videos and PDFs stay on your device unless you deleted them in the App
+- To ask for deletion of the anonymous purchase records held by RevenueCat, or any other request about your data, email asquare938@gmail.com. Google Play keeps its own purchase records under Google's policy.
 
-### 5.3 Ad Personalization
-
-**Control ad tracking:**
-- Opt-out of personalized ads through device settings
-- Reset your advertising ID
-- Android: Settings → Google → Ads
-
-### 5.4 Do Not Track
-
-- The app does not respond to "Do Not Track" signals
-- We do not track you across other apps or websites
+### 5.5 EEA, UK and Other Regions
+Depending on where you live, you may have rights to access, correct, delete or restrict processing of data about you, and to complain to a data protection authority. Because Swipy holds no personal data of its own, most such requests concern Google or RevenueCat; we will help you direct them.
 
 ---
 
 ## 6. Children's Privacy
 
-**CleanSwipe is not intended for children under 13:**
-- We do not knowingly collect information from children under 13
-- If you are a parent/guardian and believe your child has provided us with information, contact us
-- We will delete such information immediately
+Swipy is not directed at children under 13, and we do not knowingly collect information from children. Ad requests use Google's settings for general audiences. If you believe a child has used Swipy and that information was collected, contact us and we will help remove it.
 
 ---
 
 ## 7. Third-Party Services
 
-### 7.1 Advertising Networks
-
-**Third-party ad providers may use:**
-- Cookies and similar technologies
-- Device information for ad serving
-- See their privacy policies for details
-
-### 7.2 Sharing Destinations
-
-**When you share content:**
-- You may share to third-party apps (social media, messaging, cloud storage)
-- We are not responsible for their privacy practices
-- Review their privacy policies before sharing
+- **Google AdMob:** [Google Privacy Policy](https://policies.google.com/privacy)
+- **Google Analytics for Firebase:** [Google Privacy Policy](https://policies.google.com/privacy), [Firebase data processing terms](https://firebase.google.com/terms/data-processing-terms)
+- **RevenueCat:** [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
+- **Google Play Billing:** [Google Play Terms of Service](https://play.google.com/about/play-terms/)
 
 ---
 
-## 8. International Users
+## 8. International Transfers
 
-**Data Processing:**
-- All photo/video processing happens locally on your device
-- Ad network data may be transferred internationally
-- By using the app, you consent to such transfers
+All file processing happens on your device. Data received by Google and RevenueCat may be stored and processed outside your country, including in the United States, under those companies' safeguards.
 
 ---
 
 ## 9. Changes to This Privacy Policy
 
-**We may update this policy:**
-- We will notify you of significant changes through the app or app store listing
-- "Last Updated" date will be revised
-- Continued use after changes means you accept the updated policy
-- Review this policy periodically
+We may update this policy. Significant changes will be noted on this page with a new "Last Updated" date, and where appropriate in the App or its store listing. Continued use after a change means you accept the updated policy.
 
 ---
 
 ## 10. Your Consent
 
-**By using CleanSwipe, you consent to:**
-- This Privacy Policy
-- Collection and use of information as described
-- Third-party ad network data practices
+By using Swipy, you consent to this Privacy Policy, including the advertising, analytics and purchase processing described above.
 
 ---
 
 ## 11. Contact Us
 
-**If you have questions about this Privacy Policy:**
-
+- **Developer:** Ulteritude
 - **Email:** asquare938@gmail.com
-- **Developer:** ulteridon
-
-**For app-related support:**
-- Open an issue on our GitHub repository
-- Contact us through the app store listing
+- **Store listing:** Swipy: Swipe Photo Cleaner on Google Play (package com.cleanswipe.app)
 
 ---
 
 ## Summary of Key Points
 
-✅ **Your photos and videos NEVER leave your device**
-✅ **We do NOT collect personal information**
-✅ **All processing happens locally**
-✅ **Ads are served by third-party networks (Google AdMob, etc.)**
-✅ **Ad networks may collect device info and usage data**
-✅ **You can opt-out of personalized ads**
-✅ **Sharing is done directly through your device**
-✅ **You have full control over permissions and data**
+- **Your photos, videos and PDFs never leave your device**
+- **No accounts and no personal information collected**
+- **Free version shows Google AdMob ads, with a consent form where required**
+- **Google Analytics for Firebase collects anonymous usage data**
+- **Pro and Ad-free purchases are processed by Google Play; RevenueCat gets only an anonymous ID and purchase history**
+- **You control permissions, ad personalisation and deletion**
 
 ---
 
-**This privacy policy is effective as of December 28, 2024.**
+**This privacy policy is effective as of November 2, 2026.**

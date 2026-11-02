@@ -10,10 +10,10 @@ Welcome to the privacy policies for ulteridon's apps and games.
 - [WordRush](wordRush_privacy_policy.md) - Word game mobile app
 - [Battery Charging Animations](battery_charging_animations_privacyPolicy.md) - Battery charging animation app
 - [Manjhari](manjhari_privacy_policy.md) - Devotional audio player moble app
-- [CleanSwipe](cleanSwipe_privacy_policy.md) - Photo and video gallery management app
+- [Swipy: Swipe Photo Cleaner](cleanSwipe_privacy_policy.md) - Photo, video and PDF cleaner (formerly CleanSwipe)
 - [Mirage](mirage_privacy_policy.md) - AI companion chat app for adults (18+)
 - [MyStyle](mystyle_privacy_policy.md) - Photo-poster and greeting-card maker (formerly Quick Status) · [Support](mystyle_support.md)
 
 ---
 
-*Last updated: September 10, 2026*
+*Last updated: November 2, 2026*
