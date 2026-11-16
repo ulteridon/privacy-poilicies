@@ -20,7 +20,7 @@ We read every message and usually reply within 1–2 business days.
 3. Tap to generate. Hirewise sends both to our server, where an AI model rewrites your resume to match the job, using the keywords and structure that applicant tracking systems (ATS) look for.
 4. Review the result and save it as a PDF on your iPhone.
 
-Each generated resume uses one credit.
+Each generated resume uses one credit. New users get 2 free credits.
 
 ### What does "ATS-friendly" mean?
 
@@ -38,7 +38,7 @@ PDFs are created and stored on your iPhone, inside Hirewise. To send one, open i
 
 ### Do I need an account?
 
-No. Hirewise has no sign-up or login. Everything you enter stays on your iPhone except the text sent to generate each resume.
+No. Hirewise has no sign-up or login. Everything you enter stays on your iPhone except the text sent to generate each resume. If you use the form, your contact details (name, email, phone, city and links) are not sent at all; they're added to the PDF on your iPhone.
 
 ### What permissions does Hirewise need?
 
@@ -46,7 +46,7 @@ None. Hirewise doesn't ask for access to your contacts, photos, camera, micropho
 
 ### How do credits work?
 
-You buy credit packs through Apple In-App Purchase, and each generated resume uses one credit. Credits don't expire. If a generation fails because of a problem on our side, the credit is not used. If you think a credit was taken by mistake, email us.
+You buy credit packs through Apple In-App Purchase, and each generated resume uses one credit. Credits don't expire. Your balance is stored only on your iPhone; nothing about your purchases is sent to our server. If a generation fails because of a problem on our side, the credit is not used. If you think a credit was taken by mistake, email us.
 
 ### I bought credits but they didn't appear. Can I restore them?
 
@@ -55,7 +55,7 @@ Credit packs are consumable purchases, so Apple doesn't restore them the way it 
 - Make sure you're connected to the internet, then fully close and reopen Hirewise. A purchase that was interrupted is usually completed the next time the app opens.
 - If you see a **Restore Purchases** button in the store screen, tap it.
 
-If credits are still missing, or you lost unused credits after reinstalling or moving to a new iPhone, email us with your Apple receipt or order ID (from the purchase email Apple sent you, or from [reportaproblem.apple.com](https://reportaproblem.apple.com)) and we'll sort it out.
+Credits are stored only on your iPhone, so unused credits don't move to a new iPhone and are lost if you delete the app. We don't keep a copy of your balance on our server, so we can't restore it from our side. If you were charged but credits never appeared, email us with your Apple receipt or order ID (from the purchase email Apple sent you, or from [reportaproblem.apple.com](https://reportaproblem.apple.com)) and we'll help, or request a refund from Apple there.
 
 ### Can I get a refund?
 
@@ -67,8 +67,8 @@ The AI only knows what you give it, so add more detail to your resume informatio
 
 ### How do I delete my data?
 
-- **From your iPhone:** uninstalling Hirewise deletes everything it stored: your saved details, generated resumes, PDFs inside the app and your credit balance. PDFs you saved to Files or sent by email need to be deleted there.
-- **From our server:** we don't keep your resume text, and technical logs are deleted automatically within 30 days. To have them deleted sooner, email **asquare938@gmail.com** with the subject **Hirewise Data Deletion** and roughly when you used the app, and we'll delete matching records.
+- **From your iPhone:** go to **Settings → Delete all data** to remove your saved details, job descriptions, generated resumes and their PDFs (your credit balance is kept). Uninstalling Hirewise deletes everything it stored, including your credit balance. PDFs you saved to Files or sent by email need to be deleted there.
+- **From our server:** we don't keep your resume text, credits or purchase records, and technical logs (which don't include your resume text) are deleted automatically within 30 days. To have them deleted sooner, email **asquare938@gmail.com** with the subject **Hirewise Data Deletion** and roughly when you used the app, and we'll delete matching records.
 
 Because Hirewise has no accounts, there is no account to delete.
 
