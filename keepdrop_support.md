@@ -55,7 +55,7 @@ Purchases are handled by Apple, so we can't issue refunds directly. Visit [repor
 
 ### How do I delete my data?
 
-KeepDrop has no accounts, so there is no account to delete. All of the app's data (progress, stats and settings) is stored on your iPhone and is removed when you delete the app. Your photos are not affected. To ask us to delete the anonymous purchase records kept by our purchase provider (RevenueCat), email **asquare938@gmail.com** with the subject **KeepDrop Data Deletion** and include your Apple order ID (from your App Store receipt email).
+KeepDrop has no accounts, so there is no account to delete. All of the app's data (progress, stats and settings) is stored on your iPhone and is removed when you delete the app. Your photos are not affected. Purchases are made and verified directly with Apple through the App Store, so we hold no purchase records about you; Apple keeps your purchase history under its own privacy policy.
 
 ## Reporting a Bug
 
