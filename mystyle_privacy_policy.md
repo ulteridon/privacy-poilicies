@@ -1,257 +1,182 @@
-# Privacy Policy for Patra
+# Privacy Policy for Patra: Festival Poster Maker
 
-**Last Updated:** October 27, 2026
+**Last updated:** November 16, 2026
 
-## Introduction
+Patra ("we", "our", "us") is a festival poster and greeting-card maker for iPhone and Android. It places your name and photo onto ready-made designs and lets you share the result. Patra is published by Akash Sinha, an individual developer based in India.
 
-Patra ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application Patra (the "App"), a photo-poster and greeting-card maker that places your name and photo onto templates and lets you share the result.
-
-By using Patra, you agree to the collection and use of information in accordance with this policy.
+This policy explains what Patra does with your information. In short: your name, photos and preferences stay on your phone. The only things that leave it are (1) requests for our public design files, (2) an anonymous ID and purchase records used to manage Patra Pro, and (3) if you choose to use **AI Create**, the text and pictures you put into that request.
 
 ---
 
-## 1. Information We Collect
+## 1. What stays on your phone
 
-### 1.1 Personal Information
+### Your name and photos
 
-**We do NOT collect any personal information such as:**
-- Email address
-- Phone number
-- Account credentials
-- Advertising or device identifiers
+You can enter a display name (and how it is written in Hindi) and add photos of yourself on the Profile screen, or the first time you personalise a poster. Patra keeps up to 12 of your photos so you can switch between them, and remembers where you placed a photo on each design.
 
-Patra does not have user accounts. There is no sign-up or login, and nothing you enter is sent to us.
+- Stored only in Patra's private storage on your phone
+- Never uploaded to us or to anyone else (the one exception is a photo you choose to attach in AI Create, see section 3)
+- You can change your name or remove any saved photo at any time from the Profile screen
 
-### 1.2 Your Display Name and Photos
+### Interests, state and faith (all optional)
 
-You may enter a display name (and, optionally, how it is written in Hindi) and add photos of yourself, on the Profile screen or the first time you personalise a poster. Patra keeps up to 12 of your photos so you can switch between them, and remembers how you placed a photo on each poster. All of this is used only to render your posters.
+In Profile → Personalisation you can pick what you like to share (for example Birthday, Diwali, Good morning), and optionally a state or union territory from a list and your faith (or "Prefer not to say").
 
-- They are stored **locally on your device** (in the app's private storage) and nowhere else
-- They are **never uploaded** to our servers or any third-party servers
-- You can change your name, switch photos, or remove any saved photo at any time from the Profile screen
-- Uninstalling the app deletes them
+- Used only on your phone, to put relevant designs and festivals first and decide which categories to keep for offline use
+- Never uploaded, sold or used for advertising
+- "State" is the one you pick from a list. Patra does not use GPS and does not ask for location permission
 
-### 1.3 Interests, Location, and Faith (Optional)
+### Posters you make
 
-In Profile → Personalisation, Patra lets you pick what you like to share (for example Birthday, Shayari, Diwali), and optionally where you are (a state or union territory you pick from a list) and your faith (for example Hindu, Muslim, Christian, or "Prefer not to say").
+Posters are composed on your phone. Converted pictures and Studio edits stay on your phone. Pictures you make with AI Create are saved in Patra on your phone (the last 60), and you can delete any of them with a long-press.
 
-- These answers are used **only on your device** to order templates and images, show relevant festival suggestions, and decide which categories to keep downloaded for offline use
-- They are stored **locally on your device** and are **never uploaded** to our servers or any third party
-- Location is **the state you pick**, not your device's location; Patra does not use GPS or request location permission
-- Faith is **optional**; you can choose "Prefer not to say" or skip it, and the app works the same way
-- You can change these answers at any time in Profile → Personalisation
+### Other app data
 
-### 1.4 Photos and Media
-
-**Local Access Only:**
-- Patra asks for access to your photo library only so you can pick a profile photo
-- All composition and rendering of posters happens **locally on your device**
-- Photos are **never uploaded** to our servers or any third-party servers
-- We do not read, index, or scan the rest of your photo library
-
-**Permissions Used:**
-- Patra uses the **system photo picker** on both Android and iOS. The picker hands the App only the single photo you choose, so **no photo-library, storage, or media permission is requested** on Android
-- iOS may show its standard Photos prompt; only the photo you select is shared with the App
-- `INTERNET` – To download template content (see 1.5)
-
-Patra does not request camera, microphone, location, video, or audio permissions.
-
-### 1.5 Templates and Content Downloads
-
-Templates, background images, and caption text are published by us and downloaded by the App from our content server (hosted on GitHub).
-
-- These downloads request **only public content files**; they do not include your name, photo, interests, location, faith, or any personal data
-- As with any internet download, the hosting provider (GitHub) can see your device's IP address and standard request metadata under [GitHub's Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
-- Downloaded content is cached on your device so the App works offline
-
-### 1.6 App Data (Local Storage)
-
-Patra uses your device's local storage to remember:
-- Your display name (and its Hindi spelling), your saved photos and how you placed them on posters
-- Your interests, and the optional location and faith answers (see 1.3)
-- Small preferences, such as whether you have seen the one-time tips
-- Cached templates and content
-
-This data never leaves your device and is removed when you uninstall the app.
-
-### 1.7 Usage and Diagnostic Data
-
-Patra does not include an analytics SDK and does not collect usage statistics, crash reports, or diagnostic data. Your device's app store (Google Play or Apple App Store) may collect aggregated crash and usage data under its own privacy policy.
-
-### 1.8 Purchases (Patra Pro)
-
-Patra Pro is an optional subscription that removes the watermark from shared posters. If you buy or restore Patra Pro:
-- **Payment is handled entirely by Google Play.** We never see your card, UPI, bank, or billing details.
-- To unlock Pro on your device, the App uses **RevenueCat** (RevenueCat, Inc.), a subscription-management service. RevenueCat receives a random, anonymous app user ID generated on your device, your purchase token and purchase history for Patra Pro (product, price, currency, purchase and renewal dates), your device's country and app version. It does **not** receive your name, photo, interests, location, or faith.
-- We use this only to check whether you have Pro, restore it on a new phone, and see total subscription numbers.
-- Your Pro status is also saved on your device so it works offline.
-
-If you never open the Pro page or buy Pro, RevenueCat still receives the anonymous ID when the App checks for a subscription, but no purchase data exists.
+Patra also keeps small settings (for example whether you have seen a tip), your last known Pro status (so Pro works offline), and a copy of downloaded designs so the app works without internet.
 
 ---
 
-## 2. How We Use Your Information
+## 2. Permissions
 
-### 2.1 Display Name and Photo
-- **Solely for app functionality** – rendering them onto the templates you choose
-- **Local processing only** – all rendering happens on your device
-- **Never transmitted** outside your device
-
-### 2.2 Interests, Location, and Faith
-- To show the categories and festivals you care about first, and to keep those downloaded for offline use
-- Processed on your device only; never transmitted, sold, or used for advertising
-
-### 2.3 Local App Data
-- To personalize your experience and remember your settings between sessions
-- Stored locally, not shared with anyone
+- **Photos (iPhone and Android):** Patra uses the system photo picker. It hands Patra only the photo you choose. Patra does not read, scan or index the rest of your library, and it does not ask for Photos, media or storage permission on either platform.
+- **Internet:** to download designs, check Patra Pro and, if you use it, AI Create.
+- Patra does **not** use the camera, microphone, location, contacts or tracking (no App Tracking Transparency prompt on iPhone).
 
 ---
 
-## 3. Data Sharing and Disclosure
+## 3. What leaves your phone, to whom, and why
 
-### 3.1 We Do NOT Share Your Data
+### a) Design downloads (Cloudflare and GitHub)
 
-**We do NOT sell, trade, or transfer your photos, name, interests, location, faith, or any personal information to third parties.** The only data that leaves your device for our own purposes is the anonymous purchase information described in section 1.8, which goes to RevenueCat solely to manage Patra Pro.
+Templates, background images and captions are published by us and downloaded from our content server on **Cloudflare Pages**, with **GitHub** as a backup when Cloudflare cannot be reached. These requests ask only for public files; they contain none of your personal data. Like any website, these hosts can see your IP address and basic request details (device type, time) under their own policies.
 
-### 3.2 User-Initiated Sharing
+### b) Patra Pro purchases (Apple, Google, RevenueCat)
 
-When you share a poster or card you created in Patra:
-- Sharing is done directly through your device's native share sheet
-- You explicitly choose what to share and where (e.g., WhatsApp, Instagram, email)
-- We do not intercept, store, or access shared content
-- Third-party apps handle shared content under their own privacy policies
+Patra Pro is optional. It removes the watermark from shared designs. It is sold as a monthly or yearly subscription (and, where offered, a one-time lifetime option).
 
-### 3.3 Legal Requirements
+- **On iPhone, payment is handled by Apple** through In-App Purchase. **On Android, by Google Play.** We never see your card, UPI, bank or billing details, or your Apple ID or Google account.
+- To know whether you have Pro, Patra uses **RevenueCat** (RevenueCat, Inc.). RevenueCat receives a random anonymous ID created on your phone, your purchase receipt and purchase history for Patra (product, price, currency, purchase and renewal dates), your country or store region, and your app and OS version. It does not receive your name, photos, interests, state or faith.
+- We use this only to unlock Pro, restore it on a new phone, and see overall subscription numbers.
+- Patra contacts RevenueCat to check your Pro status even if you never buy anything; in that case there is no purchase data, only the anonymous ID.
 
-We may disclose information if required to do so by law or in response to:
-- Valid legal processes (court orders, subpoenas)
-- Protection of our rights, property, or safety
-- Investigation of fraud or security issues
+### c) AI Create (only if you use it)
 
-Because we hold no user data on our servers, there is in practice nothing for us to disclose.
+AI Create makes a new picture from your description. It is switched on from our side and may not be available yet on your device. Nothing is sent unless you tap Create.
 
----
+When you tap Create, Patra sends to our **Patra AI server** (run by us on **Cloudflare Workers**):
+- what you typed (description, the wording to print, a name, and any optional shop or event details such as a business name, phone number or address)
+- your choices (purpose, style, size, quality)
+- any pictures you attached (for example your photo, a logo or a product), shrunk to at most 1024 pixels
+- the anonymous RevenueCat ID and a random secret created on your phone, so the server knows which credit balance is yours
 
-## 4. Data Security
+Our server passes your text and pictures to **Google's Gemini API** (Google LLC), which draws the picture. We use Google's paid API service. Under Google's terms for that service, your requests are not used to train Google's models; Google may keep them for a limited time to detect abuse. See [Gemini API Additional Terms](https://ai.google.dev/gemini-api/terms).
 
-### 4.1 Local Storage Only
+What our AI server keeps:
+- **Your finished picture:** kept for 1 hour so your phone can download it if the connection drops, then deleted automatically. We do not keep your text or the pictures you attached after the request is done.
+- **Your credit balance:** linked to the anonymous ID. It holds the number of credits, credits spent, recent job IDs, daily picture counts, whether you have bought credits, and the random secret. It is kept while you have credits, so they are not lost.
+- **Purchase markers:** the store transaction ID of each credit pack, so the same purchase is never counted twice.
+- **Abuse limits:** a daily count of pictures and new installs per network (based on your IP address). It is deleted automatically after about a day.
 
-- Your name, photo, preferences, and created images remain on your device
-- We do not maintain any servers storing user data
-- All data is protected by your device's built-in security features
-- We recommend using device encryption and a screen lock for additional protection
+**Credit packs** are one-time purchases: Apple In-App Purchase on iPhone, Google Play on Android, recorded through RevenueCat as in (b). After a purchase, our server asks RevenueCat which packs your anonymous ID has bought and adds the credits.
 
-### 4.2 Limitations
+Please only attach photos of people who are happy for you to use them, and do not put sensitive information in a description.
 
-- No method of electronic storage is 100% secure
-- We cannot guarantee absolute security
-- You are responsible for maintaining the security of your device
+### d) Sharing
 
----
+When you tap Share, your phone's own share sheet opens and you choose where the poster goes (WhatsApp, Instagram, Save Image and so on). We do not see or keep what you share; the app you pick handles it under its own policy.
 
-## 5. Your Rights and Choices
+### What we never do
 
-### 5.1 Photo Access
-
-**You have full control:**
-- Patra only ever receives the single photo you pick in the system photo picker
-- On iOS you can review or revoke photo access at any time: Settings → Patra → Photos
-- Declining to pick a photo only means templates show without a profile picture; the rest of the app keeps working
-
-### 5.2 Changing Your Answers
-
-- Update your interests, location, or faith at any time in Profile → Personalisation
-- Clear the location field or choose "Prefer not to say" to remove those answers
-
-### 5.3 Data Deletion
-
-- All app data is stored locally on your device
-- Uninstalling Patra removes all app data, settings, your display name, and profile photo
-- Photos in your gallery are not affected by uninstalling
+- We do not sell or rent your data
+- No advertising, no ad SDKs, no tracking across other apps or websites
+- No analytics or crash-reporting SDK. Apple and Google may give us anonymous, aggregated crash and usage statistics through their developer consoles if you have agreed to share them with developers
 
 ---
 
-## 6. Children's Privacy
+## 4. Third parties
 
-Patra is not directed to children under 13.
-- We do not knowingly collect information from children under 13
-- If you are a parent or guardian and believe your child has provided us with information, please contact us and we will take steps to address it
+| Service | What it is for | Policy |
+| --- | --- | --- |
+| Apple (App Store, In-App Purchase) | Download and payment on iPhone | [apple.com/privacy](https://www.apple.com/privacy/) |
+| Google Play | Download and payment on Android | [policies.google.com/privacy](https://policies.google.com/privacy) |
+| RevenueCat | Patra Pro and credit-pack status | [revenuecat.com/privacy](https://www.revenuecat.com/privacy) |
+| Cloudflare (Pages, Workers) | Design downloads; Patra AI server | [cloudflare.com/privacypolicy](https://www.cloudflare.com/privacypolicy/) |
+| GitHub | Backup for design downloads | [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) |
+| Google Gemini API | Drawing AI Create pictures (only if you use it) | [Gemini API Additional Terms](https://ai.google.dev/gemini-api/terms) |
 
----
-
-## 7. Third-Party Services
-
-### 7.1 Platform Providers
-
-- **Google Play** (Android): [Google Privacy Policy](https://policies.google.com/privacy)
-- **Apple App Store** (iOS): [Apple Privacy Policy](https://www.apple.com/privacy/)
-
-App store platforms may collect diagnostic and purchase data under their own policies.
-
-### 7.2 Content Hosting
-
-Templates and content are served from GitHub: [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
-
-### 7.3 Subscriptions
-
-Patra Pro purchases are processed by Google Play and managed through RevenueCat: [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy). To delete your purchase records held by RevenueCat, email us (section 11) and we will request deletion; Google Play keeps its own records under Google's policy.
-
-### 7.4 Sharing Destinations
-
-When you share content from Patra to other apps, those apps are responsible for how they handle the shared content. Please review their privacy policies.
+These services may process data outside India, including in the United States.
 
 ---
 
-## 8. International Users
+## 5. Storage and retention
 
-All rendering happens locally on your device. Your photos and personal information are never transmitted off-device. If you use Patra Pro, the anonymous purchase information in section 1.8 is processed by RevenueCat, which may store it outside India (including in the United States). Content downloads and any data handled by platform providers (Google, Apple, GitHub) are governed by their respective policies.
-
----
-
-## 9. Changes to This Privacy Policy
-
-- We may update this policy from time to time
-- Significant changes will be communicated through the app or app store listing
-- The "Last Updated" date at the top will be revised
-- Continued use of the app after changes means you accept the updated policy
+- **On your phone:** kept until you delete it in the app or uninstall Patra. Uninstalling removes everything Patra stored. Photos in your own gallery are not affected.
+- **RevenueCat:** purchase records for as long as needed to manage your purchases and meet legal and tax duties, or until you ask us to delete them.
+- **Patra AI server:** finished pictures 1 hour; per-network counters about 1 day; credit balance and purchase markers until you ask us to delete them.
+- **Apple and Google:** keep their own purchase records under their own policies.
 
 ---
 
-## 10. Your Consent
+## 6. Deleting your data
 
-By using Patra, you consent to:
-- This Privacy Policy
-- The local, on-device use of your display name, photo, and optional preferences described above
-- Downloading public template content from our content server
-
----
-
-## 11. Contact Us
-
-**If you have questions about this Privacy Policy:**
-
-- **Email:** asquare938@gmail.com
-- **Developer:** ulteridon
-
-**For app-related support:**
-- Contact us through the app store listing
+- **On your phone:** remove photos in Profile, delete AI creations with a long-press, or uninstall Patra to remove everything.
+- **RevenueCat and AI credit records:** Patra has no accounts, so we cannot look you up by name. Email us at asquare938@gmail.com with your Apple order ID (from your App Store receipt email) or Google Play order number, and we will delete the matching RevenueCat customer record and any AI credit balance within 30 days. Deleting them removes any unused AI credits and means a later "Restore purchases" creates a fresh record.
+- **Cancel a subscription:** on iPhone, Settings → [your name] → Subscriptions → Patra. On Android, Google Play → Payments & subscriptions → Subscriptions. Deleting the app does not cancel a subscription.
 
 ---
 
-## Summary of Key Points
+## 7. Children
 
-✅ **Your photo and name NEVER leave your device**
-✅ **We do NOT collect personal information** (Patra Pro purchases are handled by Google Play; RevenueCat gets only an anonymous ID and purchase history)
-✅ **No accounts and no sign-up**
-✅ **Interests, location, and faith are optional, stay on your device, and only order your feed**
-✅ **No photo-library, camera, microphone, or location permissions — the system photo picker hands us only the photo you choose**
-✅ **All poster creation happens locally**
-✅ **We do NOT sell or share your data**
-✅ **Sharing is done through your device's native share sheet**
-✅ **You have full control over permissions and data**
+Patra is not directed at children under 13, and we do not knowingly collect information from them. If you believe a child has sent us information (for example through AI Create), email us and we will delete it.
 
 ---
 
-**This privacy policy is effective as of October 27, 2026.**
+## 8. Security
 
-See also our [Terms of Service](policy.html?file=mystyle_terms.md).
+Your data on the phone is protected by your device's own security; we recommend a screen lock. Connections to our content and AI servers and to RevenueCat use HTTPS. Your AI credit balance can only be used by the phone that holds its secret. No system is perfectly secure, but we keep what we hold to the minimum described here.
+
+---
+
+## 9. Legal requests
+
+We may disclose information if the law requires it. Because we hold almost nothing about you, there is usually nothing to disclose.
+
+---
+
+## 10. Changes to this policy
+
+If we change how Patra handles data, we will update this page and the "Last updated" date, and mention significant changes in the app or its store listing.
+
+---
+
+## 11. Contact
+
+**Akash Sinha** (individual developer), India
+**Email:** asquare938@gmail.com
+**Subject line:** Patra Privacy
+
+---
+
+See also our [Terms of Service](policy.html?file=mystyle_terms.md) and [Support page](support.html?file=mystyle_support.md).
+
+<!--
+App Store privacy label (App Privacy questionnaire) - suggested answers for Patra, iOS 1.0.
+
+Tracking: NO. No data is used to track users across other companies' apps or websites. No ATT prompt.
+
+Data collected (all "Not linked to you", purpose "App Functionality" only; none used for analytics, ads or personalisation off-device):
+
+1. Purchases > Purchase History  - RevenueCat (Pro subscription + AI credit packs). Not linked. App Functionality.
+2. Identifiers > User ID - RevenueCat anonymous app user ID ($RCAnonymousID), also used as the AI credit wallet key. Not linked. App Functionality.
+   (Some developers treat a random anonymous ID as not needing disclosure; declaring it is the conservative choice.)
+
+Only if AI Create is switched on in the iOS build (app_config.json "ai.endpoint" set):
+3. User Content > Photos or Videos - photos the user attaches in AI Create (sent to our Cloudflare Worker and Google Gemini). Not linked. App Functionality.
+4. User Content > Other User Content - prompt text, wording, name printed on the poster, optional business name/phone/address. Not linked. App Functionality.
+   (Conservative option: also tick Contact Info > Name / Phone Number / Physical Address, Not linked, App Functionality, because users may type them into AI Create.)
+
+Not collected: Contact Info (unless choosing the conservative option above), Health, Financial Info (Apple handles payment), Location (state is picked from a list and stays on device), Sensitive Info (faith stays on device), Contacts, Browsing/Search History, Usage Data, Diagnostics (no analytics or crash SDK), Other Data.
+
+Note: name, profile photos, interests, state and faith are processed only on device and are NOT "collected" under Apple's definition.
+Apple guideline 5.1.2(i): before the first AI Create request, show an in-app notice that the text and photos are sent to Google Gemini via our server, and get the user's OK.
+-->
